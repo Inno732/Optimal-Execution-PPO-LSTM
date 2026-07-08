@@ -1,4 +1,4 @@
-\#Optimal Trade Execution using Reinforcement Learning
+ **Optimal Trade Execution using Reinforcement Learning**
 
 
 
